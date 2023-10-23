@@ -4,7 +4,7 @@ import json
 json_data = [
     {
         "domain": ".google.fr",
-        "expirationDate": 1712414514.030686,
+        "expirationDate": 1713604360.645163,
         "hostOnly": False,
         "httpOnly": True,
         "name": "AEC",
@@ -13,12 +13,12 @@ json_data = [
         "secure": True,
         "session": False,
         "storeId": "1",
-        "value": "Ackid1RWtwLUgbohNkyzLZ7_X-X6HHxIg3lylE9iTMDtYBnoQrb73T2Mlw",
+        "value": "Ackid1T-gZp8f6h0NwQq03I_wpv6bQN2xr5d_8ArYiV2mG7cCZscafdD0w",
         "id": 1
     },
     {
         "domain": ".google.fr",
-        "expirationDate": 1712414514.030739,
+        "expirationDate": 1713604360.645223,
         "hostOnly": False,
         "httpOnly": False,
         "name": "CONSENT",
@@ -27,12 +27,12 @@ json_data = [
         "secure": True,
         "session": False,
         "storeId": "1",
-        "value": "PENDING+318",
+        "value": "PENDING+725",
         "id": 2
     },
     {
         "domain": ".google.fr",
-        "expirationDate": 1712414516.422762,
+        "expirationDate": 1713604362.593171,
         "hostOnly": False,
         "httpOnly": True,
         "name": "NID",
@@ -41,12 +41,12 @@ json_data = [
         "secure": True,
         "session": False,
         "storeId": "1",
-        "value": "511=poW9EyFCl_-wizpGSzReWtIGK8QyTDrK4Y1sqPmK3ELySn47rwziwAH5xVWpy8rzgL45xJ0BuPXHTozqTZQLovUlcnIC8-6t6RLD53tFUNMvk9nwVsPVDaEtz03o9w0e4CP8Vwh5BQOeYOfRq8HQp2T8v6j3m8NCVLf_x8Ua9hc",
+        "value": "511=bsJpf5cJ0CdDAH2QmxnvGX2PCCIzrCtflJ3bIMSd8cEdTp4AccPrYJFV5uiiGaLRU9UwvRsnjeEtOeQ9LevknvK3tzwXh8FjJ71U2rClbY5hXQSU_kHXrClwdLhxCNARTfmedZaC1FtD7RWQ8OI7E9nQEtwsEAcNJiJ311C57ws",
         "id": 3
     },
     {
         "domain": ".google.fr",
-        "expirationDate": 1712414516.42272,
+        "expirationDate": 1713604362.593124,
         "hostOnly": False,
         "httpOnly": False,
         "name": "SOCS",
@@ -55,7 +55,7 @@ json_data = [
         "secure": True,
         "session": False,
         "storeId": "1",
-        "value": "CAISNQgEEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMxMDAzLjA2X3AwGgJmciACGgYIgIWNqQY",
+        "value": "CAISNQgEEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMxMDE3LjA0X3AwGgJmciACGgYIgO_WqQY",
         "id": 4
     }
 ]
